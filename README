@@ -1,3 +1,11 @@
 in Go 1.16, we could embed resources into the compiled binary executable.
 
 This is a simple demo for embedding a mp3 into the executable and play.
+
+to run:
+1. have Go 1.16 instlled.
+2. in shell:
+$ go install github.com/vsdmars/embed_fun@latest
+
+3. to play:
+$ embed_fun
