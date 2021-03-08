@@ -1,0 +1,3 @@
+in Go 1.16, we could embed resources into the compiled binary executable.
+
+This is a simple demo for embedding a mp3 into the executable and play.
